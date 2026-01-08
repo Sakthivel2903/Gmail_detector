@@ -1,6 +1,8 @@
 # Gmail_detector
 Gmail Email Detector 📧
 An automated Python application that monitors your Gmail inbox in real-time and notifies you when new emails arrive. Built using the official Gmail API with secure OAuth2 authentication.
+
+
 Features ✨
 
 Real-time Monitoring: Continuously checks for new unread emails
